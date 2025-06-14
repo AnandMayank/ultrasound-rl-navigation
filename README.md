@@ -140,7 +140,7 @@ If you use this code in your research, please cite:
 ## 📞 Contact
 
 - **GitHub**: [AnandMayank](https://github.com/AnandMayank)
-- **LinkedIn**: [Anand Mayank](https://linkedin.com/in/AnandMayank)
+- **LinkedIn**: [Anand Mayank](https://www.linkedin.com/in/mayank-anand-48074123)
 - **Project Blog**: [Ultrasound RL Navigation](https://anandmayank.github.io/Ultrasound_Image_rl/)
 
 ## 📜 License
